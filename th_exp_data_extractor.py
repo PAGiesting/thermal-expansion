@@ -135,6 +135,8 @@ def archive_data_file(folder, file_name):
                 data_dict[item.strip()].append(float(row[i]))
 
     # Now we create the new encoded file.
+    # At the moment, if there are .csv and .xlsx files with the same base name,
+    # one will clobber the other. Could fix this later.
     file_name_split = file_name.split('.')
     json_file_name = file_name_split[0] + '.json'
     with open(folder + json_file_name, 'w') as json_file:
