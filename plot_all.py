@@ -76,4 +76,5 @@ for sample in plotdict:
     plt.ylabel('Linear Thermal Exp.')
     plt.legend()
     plt.savefig('testplots/'+sample+'.tif')
+    plt.show()
     plt.clf()

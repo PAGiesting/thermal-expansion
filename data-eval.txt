@@ -1,0 +1,27 @@
+Notes on data files:
+albAmel: "010" and "100" files all lay directly on top of each other.
+	001-r19c = 001-s1r1 and 001-r2 = 001-s1r2 (or maybe swap the RHS's)
+anorShaws: one file
+byto: 	four distinct files
+	go back and check which one is which
+fmt:	100-sBr1 arch ending by 450 C
+	100-sBr2 underneath 010-sCr1(8c) all three overlay *almost* exactly
+	001-sAr1 off on its own
+moon:	seven distinct files visible
+	three files climb, flatline, climb, done by 450 C, from bottom to top:
+		s1r2, s2r2, s3r2
+	p2s2r2: sharp rise from negative to ~250, drop to ~600, rise
+	s1r1:	flatter but otherwise like p2s2r2
+	s2r1:	broad flat curve
+	s3r1:	shallow drop to ~175, rise to ~750, shallow drop
+oligHawk: 001:	s1r1 rise to 250, drop to 575, sharp rise
+		s1r2 rise to 175, drop to 300, done by 400
+		s1r5 broad flat concave down
+	010:	s1r3, s1r4 on top of each other, like "001" s1r5
+oligTanz: "010" and "100" directly on top of each other
+	  concave down a lot like oligHawk s1r3, 4, 5 "001" and "010"
+sanMtT:	none of these pass 125 C yet alpha ranges from -5e-5 to 3e-5
+	p1s1r17c, p2s1r1: sharp rise to 45, flat to 65, rise to 80
+	p2s1r16mm: sharp rise to 70, flat to 105, turning upward to 125
+	p3s1r1: like p1/2s1r1 but steeper
+	
