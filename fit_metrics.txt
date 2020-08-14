@@ -1,0 +1,102 @@
+albAmel001r19c.csv13188 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            1.2876E-09, 1.2695E-10, 1.4452E-09, 7.5796E-13
+albAmel001r2-9c.csv7060 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            2.4415E-10, 1.0639E-10, 6.9858E-10, 1.4161E-12
+albAmel001s1r1-9x.csv13188 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            1.2876E-09, 1.2695E-10, 1.4452E-09, 7.5796E-13
+albAmel001s1r2-9x.csv7060 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            2.4415E-10, 1.0639E-10, 6.9858E-10, 1.4161E-12
+albAmel010sTr1-8c.csv1998 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            7.2822E-09, 4.1870E-09, 1.3652E-08, 5.0059E-12
+albAmel100r1-11c.csv14817 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            3.3577E-09, 2.7175E-09, 1.1284E-08, 6.7475E-13
+albAmel100s1r1-11x.csv14817 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            3.3577E-09, 2.7175E-09, 1.1284E-08, 6.7475E-13
+anorShaws1r1-13mm-090119c.csv1847 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            4.7859E-08, 3.3477E-08, 8.4482E-08, 5.4146E-12
+byto000sA1r1-16mm-091519c.csv9089 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            2.0304E-10, 6.6984E-11, 3.9394E-10, 1.0993E-12
+byto000sA1r2-16mm-102619c.csv17458 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            4.7364E-10, 3.3525E-10, 4.7808E-10, 5.7325E-13
+byto000sB1r1-14c.csv17616 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            6.2485E-09, 4.3550E-09, 1.3847E-08, 5.6737E-13
+byto000sCr1-14c.csv18016 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            7.2093E-10, 6.7515E-10, 4.1644E-09, 5.5501E-13
+fmt001sAr1-11c.csv1975 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            9.1087E-10, 7.6402E-10, 1.2342E-09, 5.0640E-12
+fmt010sCr18c.csv2035 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            1.4005E-09, 7.1586E-10, 1.7155E-09, 4.9115E-12
+fmt100sBr1-10c.csv817 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            9.8433E-10, 9.8282E-10, 1.1679E-09, 1.2250E-11
+fmt100sBr2-10c.csv1997 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            7.6368E-10, 5.1860E-10, 8.9524E-10, 5.0075E-12
+moon000s1r1-15mm-091219c.csv11417 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            6.9278E-09, 6.7460E-09, 1.6338E-08, 8.7582E-13
+moon000s1r2-15mm-091519c.csv2919 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            1.5466E-10, 2.8499E-11, 5.9747E-10, 3.4260E-12
+moon000s2r1-13c.csv11968 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            4.1511E-10, 1.7104E-10, 1.0533E-09, 8.3550E-13
+moon000s2r2-13c.csv2831 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            1.6357E-10, 2.7126E-11, 8.1113E-10, 3.5310E-12
+moon000s3r1-10c.csv1659 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            3.0470E-09, 3.0353E-09, 4.8932E-09, 6.0279E-12
+moon000s3r2-10c.csv4532 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            1.6277E-09, 1.2594E-09, 2.0805E-09, 2.2068E-12
+moon0p2s2r2-15mm-102719c.csv10143 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            3.0345E-08, 2.9237E-08, 5.9331E-08, 9.8566E-13
+oligHawk001s1r1-7c.csv1979 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            5.3635E-07, 5.2069E-07, 8.5874E-07, 5.0516E-12
+oligHawk001s1r2-7c.csv3859 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            3.6983E-10, 1.1208E-10, 1.2141E-09, 2.5913E-12
+oligHawk001s1r5-7c.csv2055 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            2.1705E-09, 1.1685E-09, 2.3246E-09, 4.8658E-12
+oligHawk010s1r3-8c.csv2017 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            1.2907E-09, 5.9865E-10, 1.3313E-09, 4.9579E-12
+oligHawk010s1r4-8c.csv515 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            3.0992E-10, 6.9303E-11, 9.6004E-10, 1.9406E-11
+oligTanz010s2r1-9c.csv2101 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            1.3081E-09, 1.0421E-09, 1.9066E-09, 4.7599E-12
+oligTanz100s1r1-8c.csv2075 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            4.8711E-09, 3.7962E-09, 5.0685E-09, 4.8192E-12
+sanMtT0p1s1r17c.csv516 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            5.4040E-12, 3.9200E-13, 2.2223E-11, 1.9374E-11
+sanMtT0p2s1r1-7x.csv516 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            5.4040E-12, 3.9200E-13, 2.2223E-11, 1.9374E-11
+sanMtT0p2s1r16mm-111418c.csv921 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            2.9199E-11, 1.3233E-11, 7.8730E-11, 1.0858E-11
+sanMtT0p3s1r1-4c.csv556 data points
+Mean Squared Errors (p4, p5, sp, tsp):
+            3.5859E-11, 1.5132E-12, 1.4607E-10, 1.7987E-11

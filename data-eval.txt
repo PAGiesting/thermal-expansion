@@ -1,12 +1,15 @@
-Notes on data files:
+Notes on alpha calculations:
 albAmel: "010" and "100" files all lay directly on top of each other.
 	001-r19c = 001-s1r1 and 001-r2 = 001-s1r2 (or maybe swap the RHS's)
 anorShaws: one file
-byto: 	four distinct files
-	go back and check which one is which
-fmt:	100-sBr1 arch ending by 450 C
+byto: 	sCr1	low T droop, climbs to 1000 C, steeper to 1200 C
+	sB1r1	low T stepped sharp drop to 190 C, climbs to 1200 C with a shallow spot near 1100 C
+	sA1r2	low T small droop, climbs to 1200 C
+	sA1r1	similar to ~720 C, noise in data after that
+	Note that I cut the temperature regressive parts of the byto curves
+fmt:	001-sAr1 off on its own
+	100-sBr1 arch ending by 450 C
 	100-sBr2 underneath 010-sCr1(8c) all three overlay *almost* exactly
-	001-sAr1 off on its own
 moon:	seven distinct files visible
 	three files climb, flatline, climb, done by 450 C, from bottom to top:
 		s1r2, s2r2, s3r2
@@ -24,4 +27,12 @@ sanMtT:	none of these pass 125 C yet alpha ranges from -5e-5 to 3e-5
 	p1s1r17c, p2s1r1: sharp rise to 45, flat to 65, rise to 80
 	p2s1r16mm: sharp rise to 70, flat to 105, turning upward to 125
 	p3s1r1: like p1/2s1r1 but steeper
-	
+
+Assessments:
+Sanidine - inadequate data
+Oligoclase - only two orientations
+FMT - only two reasonable orientations
+Moonstone - three orientations? s1r1, s2r1, s3r1
+Bytownite - three orientations? sA1r2, sB1r1, sCr1
+Albite - may only have *one* orientation
+Anorthite - only one orientation
